@@ -3,5 +3,5 @@
 
 ![](image/fig18.jpg)
 ![](image/fig1.jpg)
-![](image/fig12.jpg)
 ![](image/fig9.jpg)
+![](image/fig10.jpg)
