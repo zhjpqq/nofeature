@@ -11,7 +11,7 @@
 ![](image/fig10.jpg)
 
 ## NOF对抗视角变换
-![](image/fig13.jpg)
+![](image/fig13.png)
 
 ## NOF匹配效果
 ![](image/fig9.jpg)
