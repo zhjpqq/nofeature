@@ -10,6 +10,9 @@
 ## NOF对抗旋转变换
 ![](image/fig10.jpg)
 
+## NOF对抗视角变换
+![](image/fig13.jpg)
+
 ## NOF匹配效果
 ![](image/fig9.jpg)
 
