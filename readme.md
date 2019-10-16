@@ -12,3 +12,8 @@
 
 ## NOF匹配效果
 ![](image/fig9.jpg)
+
+# Requires
+
+- c++
+- OpenCV 2.4.9
